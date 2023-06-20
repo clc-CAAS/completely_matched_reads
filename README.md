@@ -5,3 +5,4 @@
 Please type "completely_matched_reads.py -h" in linux shell for usage
 There are two example input files: sequence.txt, test.fq.
 Contact: 861232619@qq.com
+# completely-matched-reads
